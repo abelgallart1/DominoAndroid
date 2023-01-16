@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627981934541",
+    "project_id": "domino-4af3b",
+    "storage_bucket": "domino-4af3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627981934541:android:d0f518620767f0f216ae84",
+        "android_client_info": {
+          "package_name": "com.abelgallart1.domino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627981934541-279jt4cgb1otbj5ruqo26l4jkbcvor8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGk4ai-6kfGidMz2gx6OStlsjUi9-cX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627981934541-279jt4cgb1otbj5ruqo26l4jkbcvor8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
